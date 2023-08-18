@@ -1,0 +1,13 @@
+{
+  "name": "3WY",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/umohsamuel/3WY.git",
+  "author": "Umoh Samuel Godwin <youngking074@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "parcel": "^2.9.3",
+    "three": "^0.155.0"
+  }
+}
