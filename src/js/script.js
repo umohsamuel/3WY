@@ -103,6 +103,8 @@ scene.background = cubeTextureLoader.load([
   stars,
 ]);
 
+// all we want is cacedo
+
 const box2Geometry = new THREE.BoxGeometry(4, 4, 4);
 const box2Material = new THREE.MeshBasicMaterial({
   // color: 0x00ff00,
